@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>骁章的个人站</title>
+    <title>晓章的个人站</title>
     <link href="https://keith1125.github.io/feed.xml" rel="self" />
     <link href="https://keith1125.github.io" />
     <updated>2025-06-05T23:49:58+08:00</updated>
     <author>
-        <name>骁章</name>
+        <name>晓章</name>
     </author>
     <id>https://keith1125.github.io</id>
 
     <entry>
         <title>TB代码片段</title>
         <author>
-            <name>骁章</name>
+            <name>晓章</name>
         </author>
         <link href="https://keith1125.github.io/taskbuilder.html"/>
         <id>https://keith1125.github.io/taskbuilder.html</id>
@@ -142,7 +142,7 @@
     <entry>
         <title>测试文章</title>
         <author>
-            <name>骁章</name>
+            <name>晓章</name>
         </author>
         <link href="https://keith1125.github.io/ce-shi-wen-zhang.html"/>
         <id>https://keith1125.github.io/ce-shi-wen-zhang.html</id>
