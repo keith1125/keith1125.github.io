@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>晓章的个人站</title>
+    <title>Keith‘s Blog</title>
     <link href="https://keith1125.github.io/feed.xml" rel="self" />
     <link href="https://keith1125.github.io" />
     <updated>2025-06-05T23:49:58+08:00</updated>
     <author>
-        <name>晓章</name>
+        <name>Keith</name>
     </author>
     <id>https://keith1125.github.io</id>
 
     <entry>
         <title>TB代码片段</title>
         <author>
-            <name>晓章</name>
+            <name>Keith</name>
         </author>
         <link href="https://keith1125.github.io/taskbuilder.html"/>
         <id>https://keith1125.github.io/taskbuilder.html</id>
@@ -136,26 +136,6 @@
 <p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="C:\Users\Keith\AppData\Roaming\Typora\typora-user-images\image-20250523202537362.png"><img loading="lazy" src="file:///C:\Users\Keith\AppData\Roaming\Typora\typora-user-images\image-20250523202537362.png?lastModify=1749138203" alt="image-20250523202537362" data-local-refresh="true" data-is-external-image="true"></span></p>
 <h3 class="md-end-block md-heading"><span class="md-plain">采购申请单</span></h3>
 <pre class="md-fences mock-cm md-end-block" lang="sql" spellcheck="false">SELECT * FROM dbo.mmPurchaseRequestHdr<br>SELECT * FROM dbo.mmPurchaseRequestDtl<br>SELECT * FROM dbo.vwmmPurchaseRequest</pre>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>测试文章</title>
-        <author>
-            <name>晓章</name>
-        </author>
-        <link href="https://keith1125.github.io/ce-shi-wen-zhang.html"/>
-        <id>https://keith1125.github.io/ce-shi-wen-zhang.html</id>
-
-        <updated>2025-04-11T01:46:06+08:00</updated>
-            <summary>
-                <![CDATA[
-                    测试正文
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>测试正文</p>
             ]]>
         </content>
     </entry>
