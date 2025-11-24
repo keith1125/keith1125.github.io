@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://keith1125.github.io/jie-teng-wmschong-gou-ku-cun-you-gan.html",
+            "url": "https://keith1125.github.io/jie-teng-wmschong-gou-ku-cun-you-gan.html",
+            "title": "捷腾WMS重构库存有感",
+            "summary": "当我看到但未完全理解StockManage表时我是很难受的，内心发出疑问，为什么同仓库、同区域、同货架、同库位、同产品编码的库存信息是分散的，前公司的结构为单库位中单一产品编码的库存仅保留一条，出入库记录单独放入一张日志表中，这样的库存查询比较清晰明了，尤其当我看到相关库存视图(v_Warehouse_Partition_Shelves_StockManage_Goods_StockUnitInfo)为多表嵌套后再分组求和时，我承认我内心有些爆炸，只能安慰自己，当一天和尚撞一天钟",
+            "content_html": "<p>当我看到但未完全理解StockManage表时我是很难受的，内心发出疑问，为什么同仓库、同区域、同货架、同库位、同产品编码的库存信息是分散的，前公司的结构为单库位中单一产品编码的库存仅保留一条，出入库记录单独放入一张日志表中，这样的库存查询比较清晰明了，尤其当我看到相关库存视图(v_Warehouse_Partition_Shelves_StockManage_Goods_StockUnitInfo)为多表嵌套后再分组求和时，我承认我内心有些爆炸，只能安慰自己，当一天和尚撞一天钟</p>",
+            "author": {
+                "name": "Keith"
+            },
+            "tags": [
+                   "diary"
+            ],
+            "date_published": "2025-11-24T18:51:52+08:00",
+            "date_modified": "2025-11-24T18:51:52+08:00"
+        },
+        {
             "id": "https://keith1125.github.io/hui-bi-xing-yi-lian.html",
             "url": "https://keith1125.github.io/hui-bi-xing-yi-lian.html",
             "title": "回避型依恋",
